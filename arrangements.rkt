@@ -1,6 +1,14 @@
 ;; The first three lines of this file were inserted by DrRacket. They record metadata
 ;; about the language level of this file in a form that our tools can easily process.
 #reader(lib "htdp-beginner-abbr-reader.ss" "lang")((modname arrangements) (read-case-sensitive #t) (teachpacks ()) (htdp-settings #(#t constructor repeating-decimal #f #t none #f () #t)))
+
+#|
+HtDP Exercise 12.4.2.
+Develop the function insert-everywhere/in-all-words. It consumes a symbol and a list of words.
+The result is a list of words like its second argument, but with the first argument inserted
+between all letters and at the beginning and the end of all words of the second argument.
+|#
+
 #| ------------------------------------------------------------------------
    Permutations
 
