@@ -19,3 +19,16 @@
 ;; Bad one:
 ;; (doubled-penalty undertricks vulnerable) produces the penalty points if the bid is down
 ~~~~
+
+##A03
+##A04
+##A05
+##A06
+##A07
+
+##A08
+1. Be precise about the type in the contract.<br>
+If op can only be '+ or '\*, then the type of op is (anrof '+ '\*) but not a simple Sym.
+
+##A09
+
