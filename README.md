@@ -9,3 +9,4 @@ Some notes while using DrRacket.
 (define (my-fn x)
   (lambda (x y) ...)      ;; here (x y) says the function it produces will consume two arguments, which meets our need.
 ~~~~~
+* The first argument of `foldr` is a function that consumes two arguments (x and y, where x is the first item and y is the result of the rest).
