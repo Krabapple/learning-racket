@@ -13,5 +13,7 @@ Some notes while using DrRacket.
 * The first argument of `foldr` is a function that consumes two arguments (x and y, where x is the first item and y is the result of the rest).
 
 ## Week 10
-* `(identity n)` just produces the number itself.  
-  (identity 78) -> 78
+* `(identity n)` just produces the number/char/symbol itself.  
+  (identity 78) -> 78  
+  (identity 'a) -> 'a  
+  (identity "abc") -> "abc"
