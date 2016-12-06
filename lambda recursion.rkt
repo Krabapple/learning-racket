@@ -11,5 +11,5 @@
 ;; Pretty fun.
 ;; For more details, check the following pages:
 ;; http://stackoverflow.com/questions/7719004/in-scheme-how-do-you-use-lambda-to-create-a-recursive-function
-;; http://zzp.me/2013-09-05/y-combinator/ (Fous on the deduplication part.)
+;; http://zzp.me/2013-09-05/y-combinator/ (Focus on the deduplication part.)
 ;; https://trow.cc/board/showtopic=16485
